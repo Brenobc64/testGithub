@@ -4,5 +4,9 @@ class Program {
         
         System.out.println("Yo!");
         System.out.println("Dayo!");
+
+        double random = Math.random();
+
+        System.out.println(random);
     }
 }
